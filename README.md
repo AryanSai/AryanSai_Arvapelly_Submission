@@ -1,1 +1,1 @@
-My Assignment for the Data Science Intern position at Zeotap. 
+My Assignment submission for the Data Science Intern position at Zeotap. 
